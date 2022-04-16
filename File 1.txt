@@ -1,2 +1,6 @@
 Hi All, This is my latest file
-Learning how to work on Git
+<<<<<<< HEAD
+Learning how to work on Git and changes by balajilsme user
+
+Changed by new user
+Updated by balajilsme
